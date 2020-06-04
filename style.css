@@ -1,0 +1,131 @@
+div {
+  width: 140px;
+  height: 190px;
+  border: 0.5px solid grey;
+  padding: 50px;
+  margin: 20px;
+  display: inline-block;
+  border-radius:5px;
+}
+body{
+  border: 1px solid black;
+  text-align: center;
+}
+.quadrato1{
+  background-color: lightblue;
+  position: relative;
+  }
+#smartphone {
+  height: 200px;
+  position: absolute;
+  left: 70px;
+  top: 40px;
+}
+#sconto1{
+  position: absolute;
+  top:0px;
+  right: 0px;
+  color: white;
+  background-color: red;
+  font-size:16px;
+}
+.quadrato2{
+  background-color: lightblue;
+  position: relative;
+  }
+#airpods {
+    height: 200px;
+    position: absolute;
+    left: 22px;
+    top: 45px;
+  }
+  #sconto2{
+    position: absolute;
+    top:0px;
+    right: 0px;
+    color: white;
+    background-color: red;
+    font-size:16px;
+  }
+.quadrato3{
+      background-color: lightblue;
+      position: relative;
+      }
+#tablet{
+  position: absolute;
+  height: 160px;
+  right:24px;
+  top:70px;
+}
+#sconto3{
+  position: absolute;
+  top:0px;
+  right: 0px;
+  color: white;
+  background-color: red;
+  font-size:16px;
+}
+div:hover {
+  cursor:
+}
+
+#sconto4{
+  position: absolute;
+  top:0px;
+  right: 0px;
+  color: white;
+  background-color: red;
+  font-size:16px;
+}
+#smartphone2 {
+  height: 200px;
+  position: absolute;
+  left: 70px;
+  top: 40px;
+}
+.quadrato4{
+  background-color: lightblue;
+  position: relative;
+  }
+
+  .quadrato5{
+    background-color: lightblue;
+    position: relative;
+    }
+  #airpods2 {
+      height: 200px;
+      position: absolute;
+      left: 22px;
+      top: 45px;
+    }
+    #sconto5{
+      position: absolute;
+      top:0px;
+      right: 0px;
+      color: white;
+      background-color: red;
+      font-size:16px;
+    }
+
+      .quadrato6{
+            background-color: lightblue;
+            position: relative;
+            }
+      #tablet2{
+        position: absolute;
+        height: 160px;
+        right:24px;
+        top:70px;
+      }
+      #sconto6{
+        position: absolute;
+        top:0px;
+        right: 0px;
+        color: white;
+        background-color: red;
+        font-size:16px;
+      }
+
+div:hover{
+  background-color: red;
+}
